@@ -220,6 +220,12 @@ h2 {
 	background: rgb(80, 173, 169);
 }
 
+.highlight2 {
+	display: inline;
+	padding: .15em 0;
+	background: rgb(80, 173, 169);
+}
+
 h3 {
     text-align: center;
     padding-bottom: 0.5em;
@@ -256,4 +262,20 @@ footer a:visited {
 
 footer a:hover {
     text-decoration: underline;
+}
+
+table {
+	width: 100%;
+}
+
+tr {
+	font-size: 12px;
+}
+
+table, th, td {
+	border: 2px solid;
+}
+
+td {
+	padding: 4px;
 }
