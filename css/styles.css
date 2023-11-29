@@ -189,18 +189,18 @@ aside img {
 }
 
 img.img1 {
-	width: 190;
-	height: 80;
+	width: 180px;
+	height: 85px;
 }
 
 img.img2 {
-	width: 110;
-	height: 170;
+	width: 200px;
+	height: 140px;
 }
 
 img.img3 {
-	width: 160;
-	height: 160;
+	width: 150px;
+	height: 160px;
 }
 
 aside p {
@@ -212,6 +212,12 @@ h2 {
     font-size: 1.4em;
     text-align: center;
     padding-bottom: 0.5em;
+}
+
+.highlight {
+	display: inline;
+	padding: .15em 0;
+	background: rgb(80, 173, 169);
 }
 
 h3 {
