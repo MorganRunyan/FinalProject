@@ -279,3 +279,33 @@ table, th, td {
 td {
 	padding: 4px;
 }
+
+.imagesize {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 445px;
+	height: 300px
+}
+
+.goldfish {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 150px
+}
+
+div.form
+{
+    display: block;
+    text-align: center;
+}
+
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
